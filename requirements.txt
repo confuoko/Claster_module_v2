@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+
+psycopg2-binary
+transformers==4.46.3
+torch
+safetensors
+
+boto3
+dotenv
+runpod
